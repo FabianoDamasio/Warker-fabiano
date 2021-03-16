@@ -1,0 +1,12 @@
+{
+  "name": "Warker",
+  "displayName": "Warker",
+  "expo": {
+    "name": "Warker",
+    "slug": "Warker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
